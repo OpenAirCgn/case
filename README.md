@@ -1,4 +1,4 @@
-# case
+# OpenAir Quadsense Case
 
 OpenAir enclosure, FreeCAD and stl files. The case was designed to be:
 
@@ -10,3 +10,5 @@ OpenAir enclosure, FreeCAD and stl files. The case was designed to be:
 The openair full enclosure assembly can be seen in the FCStd file. It contains every part, including mock-ups of some boards. 
 
 The stl files can be sent directly to a 3D printer.
+
+![](case.png)
